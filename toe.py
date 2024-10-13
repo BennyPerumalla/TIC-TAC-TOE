@@ -14,7 +14,7 @@ def create_board():
 create_board()
 
 # Initialize variables
-board = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+board = [[0, 0, 1], [0, 0, 0], [0, 0, 0]]
 current_player = 1
 player1_wins = 0
 player2_wins = 0
